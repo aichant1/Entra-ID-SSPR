@@ -42,21 +42,30 @@ Validated successful reset process
 
 <p align="center">
 Created department-based security groups (IT-Users, Finance-Users, HR-Users).
-These groups simulate role-based access control (RBAC) used in enterprise environments to assign permissions based on department. <br/> <br/>
-<img width="80%" height="80%" alt="Screenshot 2026-02-13 at 11 17 57 PM" src="https://github.com/user-attachments/assets/ffff51ec-2eb7-4591-9487-c8a885a26752" />
-<br />
+These groups simulate role-based access control (RBAC) used in enterprise environments to assign permissions based on department. <br/> 
+<img width="2384" height="1750" alt="image" src="https://github.com/user-attachments/assets/e2bd5167-4f4d-49fb-940a-485be89402da" />
 <br/>
-Created a CSV file to simulate HR onboarding data. <br/> <br/>
-<img width="80%" height="80%" alt="Screenshot 2026-02-13 at 11 20 56 PM" src="https://github.com/user-attachments/assets/1b13a076-f2aa-4fba-8585-a2537ba64e26" />
+Created a CSV file to simulate HR onboarding data.
+<img width="2384" height="1750" alt="image" src="https://github.com/user-attachments/assets/5236b014-a970-4b4b-adc5-4b9afe12afcc" />
+<br/>
+Developed a PowerShell script to automate Active Directory user provisioning. 
+<br/>
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/c37346be-1b4a-4cea-9600-fae2088ad6f3" />
+<br/>
+Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory.
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/acf7de80-9dc1-427a-aac1-a3b11a3057cf" />
+<br/>
+Verified that the script exported a structured CSV report containing.
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/3467e771-6530-4a18-92db-dc357ef4677e" />
+<br/>
+Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/6c1c7842-256f-4967-b750-059bb27a638b" />
+<br/>
+Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/4ecece62-c64c-429f-a07c-14f2ce0a8679" />
+<br/>
+Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/a5fb76f9-394c-443b-875f-e5301360c5d3" />
 <br />
-<br />
-Developed a PowerShell script to automate Active Directory user provisioning. <br/> <br/>
-<img width="80%" height="80%" alt="Screenshot 2026-02-14 at 12 15 16 AM" src="https://github.com/user-attachments/assets/e3b77b07-36a4-43cf-b76b-81429d04e007" />
-<br />
-<br />
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory.  <br/> <br/>
-<img width="80%" height="80%" alt="Screenshot 2026-02-16 at 10 23 18 PM" src="https://github.com/user-attachments/assets/573f918a-8dfb-4396-bf20-fd5a3690515a" />
-<br />
-<br />
-Verified that the script exported a structured CSV report containing. <br/> <br/>
-<img width="80%" height="80%" alt="Screenshot 2026-02-16 at 11 37 46 PM" src="https://github.com/user-attachments/assets/4c203c65-2645-4c02-92f4-bccc93de07ff" />
+Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+<img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/58b6749a-9f54-4497-bfdb-ffa9ea9ad7c6" />
