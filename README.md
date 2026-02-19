@@ -41,31 +41,30 @@ Validated successful reset process
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Created department-based security groups (IT-Users, Finance-Users, HR-Users).
-These groups simulate role-based access control (RBAC) used in enterprise environments to assign permissions based on department. <br/> 
+Accessed Microsoft Azure portal to begin Microsoft Entra ID configuration. <br/> 
 <img width="2384" height="1750" alt="image" src="https://github.com/user-attachments/assets/e2bd5167-4f4d-49fb-940a-485be89402da" />
 <br/>
-Created a CSV file to simulate HR onboarding data.
+Reviewed Microsoft Entra ID tenant properties and configuration details.
 <img width="2384" height="1750" alt="image" src="https://github.com/user-attachments/assets/5236b014-a970-4b4b-adc5-4b9afe12afcc" />
 <br/>
-Developed a PowerShell script to automate Active Directory user provisioning. 
+Created new cloud-only user account for SSPR testing.
 <br/>
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/c37346be-1b4a-4cea-9600-fae2088ad6f3" />
 <br/>
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory.
+Created security group to scope Self-Service Password Reset access.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/acf7de80-9dc1-427a-aac1-a3b11a3057cf" />
 <br/>
-Verified that the script exported a structured CSV report containing.
+Added test user to SSPR security group.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/3467e771-6530-4a18-92db-dc357ef4677e" />
 <br/>
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+Enabled Self-Service Password Reset for selected security group.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/6c1c7842-256f-4967-b750-059bb27a638b" />
 <br/>
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+Configured authentication methods and security questions for password reset.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/4ecece62-c64c-429f-a07c-14f2ce0a8679" />
 <br/>
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+Registered Microsoft Authenticator as verification method for user account.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/a5fb76f9-394c-443b-875f-e5301360c5d3" />
 <br />
-Executed the PowerShell provisioning script (Provision-NewHires.ps1) from the C:\ directory. 
+Successfully reset password using Self-Service Password Reset workflow.
 <img width="2380" height="1754" alt="image" src="https://github.com/user-attachments/assets/58b6749a-9f54-4497-bfdb-ffa9ea9ad7c6" />
