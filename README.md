@@ -1,4 +1,4 @@
-<h1>Microsoft Entra ID – Self-Service Password Reset (SSPR) Configuration and Testing</h1>
+<h1>Microsoft Entra ID: Self-Service Password Reset (SSPR) Configuration and Testing</h1>
 
 
 <h2>Description</h2>
